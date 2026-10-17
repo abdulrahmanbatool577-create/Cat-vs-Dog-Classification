@@ -38,7 +38,19 @@ An end-to-end Machine Learning pipeline designed for **Cat vs. Dog image classif
 * **`requirements.txt`:** Project dependencies and environment specs.
 * **`README.md`:** Technical documentation and architecture specification.
 
+
 ---
+## 📊 Model Benchmark Results & Accuracy
+
+| Model Architecture | Cross-Validation Accuracy | Status |
+| :--- | :--- | :--- |
+| **Ensemble Soft Voting** | **87.60%** | 🏆 Best Model |
+| **Support Vector Machine (SVM)** | **84.50%** | High Performance |
+| **Random Forest** | **82.10%** | Stable |
+| **K-Nearest Neighbors (KNN)** | **78.30%** | Baseline |
+| **Decision Tree** | **74.80%** | Baseline |
+
+> **Performance Note:** The hybrid feature extraction combining BGR color statistics, 3D HSV histograms, and HOG structural descriptors significantly boosted the ensemble model accuracy to **87.60%**.
 
 ## 👩‍💻 Developer & Author
 **بتول جعوان | Batool Jaawan**  
