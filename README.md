@@ -37,4 +37,3 @@ Decision Tree	74.80%	Baseline
 بتول جعوان | Batool Jaawan
 Artificial Intelligence & Software Engineering Student
  
-## 👩‍💻 Developer & Author
